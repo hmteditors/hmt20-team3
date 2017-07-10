@@ -3,8 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Venetus A Interior Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <title>Venetus A Intermarginal Scholia</title>
+                <author>Suzan Boreel</author>
+                <author>Ling Yi</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -18,7 +19,7 @@
         <group n="20">
             <text n="msAim">
                 <body>
-                  <div n="TEAM_1" type="scholion">
+                  <div n="3_1" type="scholion">
                       <div type="lemma">
                           <p>LEMMA GOES HERE</p>
                       </div>
