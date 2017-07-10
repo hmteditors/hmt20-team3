@@ -43,31 +43,39 @@
                           ὡς ὑπέρβιον ἓν μέρος λόγου ποιῶν· καὶ ὁ
                           <persName n="urn:cite2:hmt:pers:pers485"><choice><abbr>Ἀσκαλωνίτ</abbr><expan>Ἀσκαλωνίτης</expan></choice></persName>
                           ἐπεὶ ἀντι <choice><abbr>ἐπιρρημ</abbr><expan>ἐπιρρήματος</expan></choice>·
-                          τοῦ ὑπερμόρως παρείληπται ὁμοίως πληθυντικῷ τῷ ἐνθά κεν Ἀργείοισι ὑπερμορα νόστος.
+                          τοῦ ὑπερμόρως παρείληπται ὁμοίως πληθυντικῷ τῷ ἐνθά κεν Ἀργείοισι ὑπερμορα νόστος·
                           καὶ ὃν τρόπον οὐ μὲν καλὸν ἀτέμβειν ἀντι τοῦ καλῶς ἐστὶ καὶ τὸ πληθυντικὸν οὐ μὲν καλὰ χόλον τόνδ' ἔνθεο.
                           οὕτως καὶ τὸ προκείμενον ἑνικῶς καὶ πληθυντικῶς εἰς σύνταξιν παρελεύσεται ἐπιρρήματος
-                          δειδω μὴ καὶ τεῖχος ὑπέρμορον ἐξαλαπάξῃ</p>
+                          δειδω μὴ καὶ τεῖχος ὑπέρμορον ἐξαλαπάξῃ. καὶ ἔνθα κεν
+                          <placeName n="urn:cite2:hmt:place:place114">Ἀργείοισιν</placeName>
+                          ὑπέρμορα νόστος. ἐντελῶς δὲ ἐν τῇ Β περι τῆς προσωδίας διελάβομεν· διὸ νῦν πάρειμι.
+                          ἐκεῖνο μέντοι ὑπομνήσω ὡς ὅτι δύναται καὶ τοῦτο καὶ τὸ ἐν τῇ
+                          <title><ref type= "urn" n="urn:cts:greekLit:tlg0012.tlg002:">Ὀδυσσείᾳ</ref></title>
+                          λέγω δὲ τὸ ὤς κε νῦν <persName n="urn:cite2:hmt:pers:pers27">Αἴγισθος</persName> ὑπερμόρον κατα διάλυσιν ἀναγινώσκεσθαι.
+                          ὁμοίως τῷ μὴ καὶ ὑπερ μοῖραν δόμον <persName n="urn:cite2:hmt:pers:pers201">Ἄϊδος</persName> ὥσπερ ἤδη ἀπεφηνάμην ⁑</p>
                       </div>
                   </div>
 
                   <div n="3_3" type="scholion">
                       <div type="lemma">
-                          <p></p>
+                          <p><persName n="urn:cite2:hmt:pers:pers35">Λητώ</persName> τε <persName n="urn:cite2:hmt:pers:pers111">Ξάνθος</persName> τε</p>
                       </div>
                       <div type="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001:20.</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.40</p>
                       </div>
                       <div type="comment">
-                          <p></p>
+                          <p>ὅτι οὐ προδιασυστήσας τὸν αὐτὸν ποταμὸν <persName n="urn:cite2:hmt:pers:pers111">Ξάνθον</persName> καὶ
+                          <placeName n="urn:cite2:hmt:place:place93">Σκάμανδρον</placeName> ὄντα προκατακέχρηται τῇ τοῦ
+                          <persName n="urn:cite2:hmt:pers:pers111">Ξάνθου</persName> ὀνομασίᾳ ὡς παραδεδομένοις δηλον ὅτι χρώμενος καὶ οὐκ αὐτὸς πλάσσων τὰ ὀνόματα.</p>
                       </div>
                   </div>
 
                   <div n="3_4" type="scholion">
                       <div type="lemma">
-                          <p></p>
+                          <p>ὧρτο δ'<persName n="urn:cite2:hmt:pers:pers156"> Έρις</persName> κρατερη</p>
                       </div>
                       <div type="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001:20.</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.48</p>
                       </div>
                       <div type="comment">
                           <p></p>
