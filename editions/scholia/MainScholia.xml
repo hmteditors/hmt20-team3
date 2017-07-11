@@ -78,7 +78,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.48</p>
                       </div>
                       <div type="comment">
-                          <p>ὅτι ὁ δὲ σύνδεσμος περισσός ἐστιν ἐν τῷ αὖε δ' <persName n="urn:cite2:hmt:pers:pers67">Ἀθήνῃ</persName> ⁑</p>
+                          <p>ὅτι ὁ δὲ σύνδεσμος περισσός ἐστιν ἐν τῷ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.48></ref><q>αὖε δ' <persName n="urn:cite2:hmt:pers:pers67">Ἀθήνῃ</persName></q></cit> ⁑</p>
                       </div>
                   </div>
 
