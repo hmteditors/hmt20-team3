@@ -42,17 +42,17 @@
                           <p><persName n="urn:cite2:hmt:pers:pers21"><choice><abbr>Ἀριστοφα</abbr><expan>Ἀριστοφάνης</expan></choice></persName>
                           ὡς ὑπέρβιον ἓν μέρος λόγου ποιῶν· καὶ ὁ
                           <persName n="urn:cite2:hmt:pers:pers485"><choice><abbr>Ἀσκαλωνίτ</abbr><expan>Ἀσκαλωνίτης</expan></choice></persName>
-                          ἐπεὶ ἀντι <choice><abbr>ἐπιρρημ</abbr><expan>ἐπιρρήματος</expan></choice>·
-                          τοῦ ὑπερμόρως παρείληπται ὁμοίως πληθυντικῷ τῷ ἐνθά κεν Ἀργείοισι ὑπερμορα νόστος·
-                          καὶ ὃν τρόπον οὐ μὲν καλὸν ἀτέμβειν ἀντι τοῦ καλῶς ἐστὶ καὶ τὸ πληθυντικὸν οὐ μὲν καλὰ χόλον τόνδ' ἔνθεο.
+                          ἐπεὶ ἀντι <choice><abbr>ἐπιρρημ</abbr><expan>ἐπιρρήματος</expan></choice>· τοῦ ὑπερμόρως παρείληπται ὁμοίως πληθυντικῷ τῷ
+                          <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.155</ref><q>ἐνθά κεν <placeName n="urn:cite2:hmt:place:place114">Ἀργείοισι</placeName> ὑπερμορα νόστος</q></cit>·
+                          καὶ ὃν τρόπον <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.312</ref><q>οὐ μὲν καλὸν ἀτέμβειν</q></cit> ἀντι τοῦ καλῶς ἐστὶ καὶ τὸ πληθυντικὸν
+                          <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.326</ref><q>οὐ μὲν καλὰ χόλον τόνδ' ἔνθεο</q></cit>.
                           οὕτως καὶ τὸ προκείμενον ἑνικῶς καὶ πληθυντικῶς εἰς σύνταξιν παρελεύσεται ἐπιρρήματος
-                          δειδω μὴ καὶ τεῖχος ὑπέρμορον ἐξαλαπάξῃ. καὶ ἔνθα κεν
-                          <placeName n="urn:cite2:hmt:place:place114">Ἀργείοισιν</placeName>
-                          ὑπέρμορα νόστος. ἐντελῶς δὲ ἐν τῇ Β περι τῆς προσωδίας διελάβομεν· διὸ νῦν πάρειμι.
-                          ἐκεῖνο μέντοι ὑπομνήσω ὡς ὅτι δύναται καὶ τοῦτο καὶ τὸ ἐν τῇ
-                          <title><ref type= "urn" n="urn:cts:greekLit:tlg0012.tlg002:">Ὀδυσσείᾳ</ref></title>
-                          λέγω δὲ τὸ ὤς κε νῦν <persName n="urn:cite2:hmt:pers:pers27">Αἴγισθος</persName> ὑπερμόρον κατα διάλυσιν ἀναγινώσκεσθαι.
-                          ὁμοίως τῷ μὴ καὶ ὑπερ μοῖραν δόμον <persName n="urn:cite2:hmt:pers:pers201">Ἄϊδος</persName> ὥσπερ ἤδη ἀπεφηνάμην ⁑</p>
+                          <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.30</ref><q>δειδω μὴ καὶ τεῖχος ὑπέρμορον ἐξαλαπάξῃ</q></cit>. καὶ
+                          <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.155</ref><q>ἔνθα κεν <placeName n="urn:cite2:hmt:place:place114">Ἀργείοισιν</placeName> ὑπέρμορα νόστος</q></cit>.
+                          ἐντελῶς δὲ ἐν τῇ Β περι τῆς προσωδίας διελάβομεν· διὸ νῦν πάρειμι. ἐκεῖνο μέντοι ὑπομνήσω ὡς ὅτι δύναται καὶ τοῦτο καὶ τὸ ἐν τῇ
+                          <title><ref type= "urn" n="urn:cts:greekLit:tlg0012.tlg002:">Ὀδυσσείᾳ</ref></title> λέγω δὲ τὸ
+                          <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:1.35</ref><q>ὤς κε νῦν <persName n="urn:cite2:hmt:pers:pers27">Αἴγισθος</persName> ὑπερμόρον</q></cit>
+                          κατα διάλυσιν ἀναγινώσκεσθαι. ὁμοίως τῷ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.336</ref><q>μὴ καὶ ὑπερ μοῖραν δόμον <persName n="urn:cite2:hmt:pers:pers201">Ἄϊδος</persName></q></cit> ὥσπερ ἤδη ἀπεφηνάμην ⁑</p>
                       </div>
                   </div>
 
