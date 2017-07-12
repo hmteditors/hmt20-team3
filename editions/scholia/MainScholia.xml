@@ -33,18 +33,17 @@
 
                   <div n="3_2" type="scholion">
                       <div type="lemma">
-                          <p>ὑπερ μόρον ἐξαλαπάξῃ</p>
+                          <p>ὑπερμόρον ἐξαλαπάξῃ</p>
                       </div>
                       <div type="ref">
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.30</p>
                       </div>
                       <div type="comment">
                           <p><persName n="urn:cite2:hmt:pers:pers21"><choice><abbr>Ἀριστοφα</abbr><expan>Ἀριστοφάνης</expan></choice></persName>
-                          ὡς ὑπέρβιον ἓν μέρος λόγου ποιῶν· καὶ ὁ
-                          <persName n="urn:cite2:hmt:pers:pers485"><choice><abbr>Ἀσκαλωνίτ</abbr><expan>Ἀσκαλωνίτης</expan></choice></persName>
-                          ἐπεὶ ἀντι <choice><abbr>ἐπιρρημ</abbr><expan>ἐπιρρήματος</expan></choice>· τοῦ ὑπερμόρως παρείληπται ὁμοίως πληθυντικῷ τῷ
+                          ὡς <rs type="waw">ὑπέρβιον</rs> ἓν μέρος λόγου ποιῶν· καὶ ὁ <persName n="urn:cite2:hmt:pers:pers485"><choice><abbr>Ἀσκαλωνίτ</abbr><expan>Ἀσκαλωνίτης</expan></choice></persName>
+                          ἐπεὶ ἀντι <choice><abbr>ἐπιρρημ</abbr><expan>ἐπιρρήματος</expan></choice>· τοῦ <rs type="waw">ὑπερμόρως</rs> παρείληπται ὁμοίως πληθυντικῷ τῷ
                           <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.155</ref><q>ἐνθά κεν <placeName n="urn:cite2:hmt:place:place114">Ἀργείοισι</placeName> ὑπερμορα νόστος</q></cit>·
-                          καὶ ὃν τρόπον <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.312</ref><q>οὐ μὲν καλὸν ἀτέμβειν</q></cit> ἀντι τοῦ καλῶς ἐστὶ καὶ τὸ πληθυντικὸν
+                          καὶ ὃν τρόπον <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg002:21.312</ref><q>οὐ μὲν καλὸν ἀτέμβειν</q></cit> ἀντι τοῦ <rs type="waw">καλῶς</rs> ἐστὶ καὶ τὸ πληθυντικὸν
                           <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.326</ref><q>οὐ μὲν καλὰ χόλον τόνδ' ἔνθεο</q></cit>.
                           οὕτως καὶ τὸ προκείμενον ἑνικῶς καὶ πληθυντικῶς εἰς σύνταξιν παρελεύσεται ἐπιρρήματος
                           <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.30</ref><q>δειδω μὴ καὶ τεῖχος ὑπέρμορον ἐξαλαπάξῃ</q></cit>. καὶ
