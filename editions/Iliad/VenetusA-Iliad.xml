@@ -21,29 +21,29 @@
   <text>
     <body>
       <div n="20">
-        <l n="1">εἰ γὰρ <persName n="urn:cite2:hmt:pers.pers1">Ἀχιλλεὺς</persName> οἶος ἐπι <rs type="ethnic" n="urn:cite2:hmt:place.place6">Τρώεσσι</rs> μαχεῖται.</l>
-        <l n="2">οὐδὲ μίνυνθ᾽ ἕξουσι ποδώκεα <persName n="urn:cite2:hmt:pers.pers1">Πηλείωνα</persName>·</l>
+        <l n="1">εἰ γὰρ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεὺς</persName> οἶος ἐπι <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώεσσι</rs> μαχεῖται.</l>
+        <l n="2">οὐδὲ μίνυνθ᾽ ἕξουσι ποδώκεα <persName n="urn:cite2:hmt:pers:pers1">Πηλείωνα</persName>·</l>
         <l n="3">καὶ δέ τέ μιν καὶ πρόσθεν ὑποτρομέεσκονὁρῶντες·</l>
         <l n="4">νῦν δ᾽ ὅτε δὴ καὶ θυμὸν, ἑταίρου χώεται, αἰνῶς.</l>
-        <l n="5">δείδω, μὴ καὶ τεῖχος ὑπερ μόρον ἐξαλαπάξῃ·</l>
-        <l n="6">ὡς ἔφατο <persName n="urn:cite2:hmt:pers.pers8">Κρονίδης</persName>· πόλεμον δ᾽ ἀλίαστον ἔγειρε·</l>
+        <l n="5">δείδω, μὴ καὶ τεῖχος ὑπερμόρον ἐξαλαπάξῃ·</l>
+        <l n="6">ὡς ἔφατο <persName n="urn:cite2:hmt:pers:pers8">Κρονίδης</persName>· πόλεμον δ᾽ ἀλίαστον ἔγειρε·</l>
         <l n="7">βὰν δ᾽ ΐμεναι πόλεμον δὲ θεοὶ, δίχα θυμὸνἔχοντες·</l>
-        <l n="8"><persName n="urn:cite2:hmt:pers.pers116">Ἥρη</persName> μὲν μετ᾽ ἀγῶνα νεῶν. καὶ <persName n="urn:cite2:hmt:pers.pers67">Παλλὰς Ἀθήνη</persName>.</l>
-        <l n="9">ἠδὲ <persName n="urn:cite2:hmt:pers.pers47">Ποσιδάων</persName> γαιήοχος, ἠδ᾽ ἐριούνης</l>
-        <l n="10"><persName n="urn:cite2:hmt:pers.pers104">Ἑρμείας</persName>, ὃς ἐπι φρεσὶ πευκαλίμῃσι κέκαστο·</l>
-        <l n="11"><persName n="urn:cite2:hmt:pers.pers192">Ἥφαιστος</persName> δ᾽ ἅμα τοῖσι κίε, σθένεϊ βλεμεαίνων.</l>
+        <l n="8"><persName n="urn:cite2:hmt:pers:pers116">Ἥρη</persName> μὲν μετ᾽ ἀγῶνα νεῶν. καὶ <persName n="urn:cite2:hmt:pers:pers67">Παλλὰς Ἀθήνη</persName>.</l>
+        <l n="9">ἠδὲ <persName n="urn:cite2:hmt:pers:pers47">Ποσιδάων</persName> γαιήοχος, ἠδ᾽ ἐριούνης</l>
+        <l n="10"><persName n="urn:cite2:hmt:pers:pers104">Ἑρμείας</persName>, ὃς ἐπι φρεσὶ πευκαλίμῃσι κέκαστο·</l>
+        <l n="11"><persName n="urn:cite2:hmt:pers:pers192">Ἥφαιστος</persName> δ᾽ ἅμα τοῖσι κίε, σθένεϊ βλεμεαίνων.</l>
         <l n="12">χωλεύων. ὑπο δὲ κνῆμαι ῥώοντο ἁραιαί·</l>
-        <l n="13">ἐς δὲ <rs type="ethnic" n="urn:cite2:hmt:place.place6">Τρῶας</rs> <persName n="urn:cite2:hmt:pers.pers83">Ἄρης</persName> κορυθαίολος. αὐτὰρ ἅμ᾽ αὐτῷ</l>
-        <l n="14"><persName n="urn:cite2:hmt:pers.pers40">Φοῖβος</persName> ἀκερσεκόμης. ἠδ᾽ <persName n="urn:cite2:hmt:pers.pers39">Ἄρτεμις</persName> ϊοχέαιρα·</l>
-        <l n="15"><persName n="urn:cite2:hmt:pers.pers35">Λητώ</persName> τε. <persName n="urn:cite2:hmt:pers.pers111">Ξάνθός</persName> τε, φιλομμειδής τ᾽ <persName n="urn:cite2:hmt:pers.pers194">Ἀφροδίτη</persName>·</l>
+        <l n="13">ἐς δὲ <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶας</rs> <persName n="urn:cite2:hmt:pers:pers83">Ἄρης</persName> κορυθαίολος. αὐτὰρ ἅμ᾽ αὐτῷ</l>
+        <l n="14"><persName n="urn:cite2:hmt:pers:pers40">Φοῖβος</persName> ἀκερσεκόμης. ἠδ᾽ <persName n="urn:cite2:hmt:pers:pers39">Ἄρτεμις</persName> ϊοχέαιρα·</l>
+        <l n="15"><persName n="urn:cite2:hmt:pers:pers35">Λητώ</persName> τε. <persName n="urn:cite2:hmt:pers:pers111">Ξάνθός</persName> τε, φιλομμειδής τ᾽ <persName n="urn:cite2:hmt:pers:pers194">Ἀφροδίτη</persName>·</l>
         <l n="16">εἴως μέν ῥ᾽ ἀπάνευθε θεοὶ θνητῶν έσαν ἀνδρῶν.</l>
-        <l n="17">τέως <rs type="ethnic" n="urn:cite2:hmt:place.place96">Ἀχαιοὶ</rs> μὲν μέγ' ἐκύδανον. οὕνεκ᾽ <persName n="urn:cite2:hmt:pers.pers1">Ἀχιλλεὺς</persName> </l>
+        <l n="17">τέως <rs type="ethnic" n="urn:cite2:hmt:place:place96">Ἀχαιοὶ</rs> μὲν μέγ' ἐκύδανον. οὕνεκ᾽ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεὺς</persName> </l>
         <l n="18">ἐξεφάνη. δηρὸν δὲ μάχης ἐπέπαυτ᾽ ἀλεγεινῆς·</l>
-        <l n="19"><rs type="ethnic" n="urn:cite2:hmt:place.place6">Τρῶας</rs> δὲ τρόμoς αἰνὸς ἐπήλυθε γυῖα ἕκαστον</l>
-        <l n="20">δειδιότας. ὅθ᾽ ὁρῶντο ποδώκεα <persName n="urn:cite2:hmt:pers.pers1">Πηλείωνα</persName> </l>
-        <l n="21">τεύχεσι λαμπόμενον. βροτολοιγῷ ῗσον <persName n="urn:cite2:hmt:pers.pers83">Ἄρηϊ</persName>·</l>
-        <l n="22">αὐτὰρ ἐπεὶ μεθ᾽ ὅμιλον <rs type="ethnic" n="urn:cite2:hmt:place.place45">Ὀλύμπιοι</rs> ἤλυθον ἀνδρῶν.</l>
-        <l n="23">ῶρτο δ᾽ <persName n="urn:cite2:hmt:pers.pers156">Ἔρις</persName> κρατερὴ. λαοσσόος. αῦε δ᾽ <persName n="urn:cite2:hmt:pers.pers67">Ἀθήνη</persName> </l>
+        <l n="19"><rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρῶας</rs> δὲ τρόμoς αἰνὸς ἐπήλυθε γυῖα ἕκαστον</l>
+        <l n="20">δειδιότας. ὅθ᾽ ὁρῶντο ποδώκεα <persName n="urn:cite2:hmt:pers:pers1">Πηλείωνα</persName> </l>
+        <l n="21">τεύχεσι λαμπόμενον. βροτολοιγῷ ῗσον <persName n="urn:cite2:hmt:pers:pers83">Ἄρηϊ</persName>·</l>
+        <l n="22">αὐτὰρ ἐπεὶ μεθ᾽ ὅμιλον <rs type="ethnic" n="urn:cite2:hmt:place:place45">Ὀλύμπιοι</rs> ἤλυθον ἀνδρῶν.</l>
+        <l n="23">ῶρτο δ᾽ <persName n="urn:cite2:hmt:pers:pers156">Ἔρις</persName> κρατερὴ. λαοσσόος. αῦε δ᾽ <persName n="urn:cite2:hmt:pers:pers67">Ἀθήνη</persName> </l>
         <l n="24">στᾶσ᾽, ὅτε μὲν παρὰ τάφρον ὀρυκτὴν. τείχεος ἐντός.</l>
         <l n="25">ἄλλοτ᾽ ἐπ᾽ ἀκτάων ἐριδούπων μακρὸν ἀΰτει.</l>
 
