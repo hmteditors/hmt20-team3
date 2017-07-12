@@ -27,7 +27,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.27</p>
                       </div>
                       <div type="comment">
-                          <p>αν άνθεξουσι ⁑</p>
+                          <p><choice><abbr>αν</abbr><expan>ἀντί</expan></choice> άνθεξουσι ⁑</p>
                       </div>
                   </div>
                   <div n="3_2" type="scholion">
@@ -38,7 +38,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.34</p>
                       </div>
                       <div type="comment">
-                          <p>μελωφελος</p>
+                          <p>ADD SCHOLION HERE</p>
                       </div>
                   </div>
                   <div n="3_3" type="scholion">
