@@ -60,7 +60,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.44</p>
                       </div>
                       <div type="comment">
-                          <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> αντ <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώων</rs> ἑκάστου ⁑</p>
+                          <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώων</rs> ἑκάστου ⁑</p>
                       </div>
                   </div>
                 </body>
